@@ -1,0 +1,6 @@
+[submodule "watch-history"]
+	path = watch-history
+	url = git@github.com:maxim-pr/watch-history.git
+[submodule "gateway"]
+	path = gateway
+	url = git@github.com:maxim-pr/gateway.git
